@@ -22,7 +22,6 @@ const UsuarioAPI = () => {
     }
   };
 
-  console.log(usuario);
 
   return (
     <div>
